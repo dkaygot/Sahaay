@@ -1,0 +1,7 @@
+{
+  "name": "Sahaay Relief Chatbot.",
+  "description": "A specialized AI assistant designed for Indian communities to provide instant guidance, resources, and emergency support during natural disasters.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
